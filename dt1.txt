@@ -1,0 +1,13 @@
+0) To create a branch
+
+git branch <branchName>
+
+21) To list the branches available
+
+git branch
+
+22) To change from 1 branch to another branch
+
+git checkout <branchName>
+
+23) To merge branch changes to the master branch
